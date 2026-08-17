@@ -1,0 +1,6 @@
+{
+  "name": "Giao hàng siêu tốc",
+  "description": "Ứng dụng quản lý giao hàng chuyên nghiệp với bản đồ Goong, quét mã QR/Barcode, quản lý đơn hàng & khách hàng Room DB, đối soát COD và nhập Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
